@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm an ecologist, and I am new to github. 
+
+I'll post my new personal webpage on github soon.
+
 <!--
 **piechnik-d/piechnik-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
